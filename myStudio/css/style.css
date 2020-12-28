@@ -118,7 +118,7 @@ banner
     color: #fff;
     text-transform: uppercase;
     background-color: rgba(255, 255, 255, 0.21);
-    /*13, 70, 83, 0.78*/
+    /*13, 70, 83, 0.78 0cb8b6*/
 }
 .navbar-default .navbar-nav > li > a
 {
@@ -152,7 +152,7 @@ banner
   }
 }
 .bg-color{
-	background-color: RGBA(12, 184, 182, 0.78);
+	background-color: RGBA(255, 255, 255, 0.78);
     /* 12, 184, 182 --> new */
     /* 13, 70, 83 --> original */
 	min-height: 650px;
