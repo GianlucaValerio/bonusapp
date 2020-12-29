@@ -96,13 +96,13 @@ banner
 
 @media (max-width: 768px) {
 	.navbar-collapse {
-		background: rgba(33, 156, 38, 0.9);
+		background: rgba(255, 255, 255, 0.9);
 	}
 }
 
 .top-nav-collapse {
     padding: 0;
-    background: rgba(33, 156, 38, 0.9);
+    background: rgba(255, 255, 255, 0.9);
 }
 
 .white, .white:hover, .white:focus
