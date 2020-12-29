@@ -440,7 +440,7 @@ contact us
 footer
 ***************************************/
 #footer{
-	background-color: #38a63a;
+	background-color: white;
     /* #38a63a --> new 
     #325C6A --> old */
 }
@@ -448,7 +448,7 @@ footer
     height: 50px;
 }
 .info-sec {
-    color: #fff;
+    color: gray;
 }
 .quick-info li i {
     font-size: 8px;
@@ -483,7 +483,7 @@ footer
 }
 .footer-line {
     padding: 30px 0px;
-    color: #fff;
+    color: black;
     text-align-last: start;
 }
 
@@ -492,7 +492,7 @@ footer
 }
 
 .quick-info li a{
-    color: #fff;
+    color: black;
 }
 .site-link, .site-link:hover, .site-link:focus
 {
